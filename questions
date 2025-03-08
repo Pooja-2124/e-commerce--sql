@@ -1,0 +1,20 @@
+🔹 Basic Queries
+1️⃣ Retrieve all customer details.
+2️⃣ List all products with category and price.
+3️⃣ Find all orders placed by a specific customer.
+4️⃣ Show order details including product names and quantities.
+5️⃣ Get payment details for a specific order.
+
+🔹 Intermediate Queries
+6️⃣ Find the total number of orders placed.
+7️⃣ Get the total revenue from all orders.
+8️⃣ List the top 3 most expensive products.
+9️⃣ Find customers who have made more than one purchase.
+🔟 Retrieve all orders made in March 2024.
+
+🔹 Advanced Queries
+1️⃣1️⃣ Identify the most frequently purchased product.
+1️⃣2️⃣ Find customers who haven’t placed any orders.
+1️⃣3️⃣ Get the product with the lowest stock available.
+1️⃣4️⃣ Retrieve customers who have spent more than ₹1000 in total.
+1️⃣5️⃣ Find the most popular payment method used by customers.
